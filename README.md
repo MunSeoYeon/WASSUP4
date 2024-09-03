@@ -10,6 +10,7 @@
 <br>
 ## 안녕하세요! 문서연입니다. :wave:
 <br>
+
 ---
 
 ### About Me 🚢
@@ -82,9 +83,8 @@
 <a href='moonseoyeon@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href='https://github.com/MunSeoYeon'><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /></a>
 
-<br>
 
-"저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"<br>
+<br>"저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"<br>
 "新しい挑戦やプロジェクトについて気軽にお話ししたい方は、いつでも気軽にご連絡ください！"
 
 </div>

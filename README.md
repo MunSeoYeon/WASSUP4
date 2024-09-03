@@ -81,7 +81,7 @@
 ##
 
 <div align="center">
-<img src="file:///C:/Users/munseoyeon/Desktop/1_AmI9wRbXrfIWGESx6eEiTw.gif" width="450px" height="300px" title="로컬 파일 GIF" alt="미니언즈"></img><br/>
+<img src="file:///C:/Users/munseoyeon/Desktop/1_AmI9wRbXrfIWGESx6eEiTw.gif" width="450px" height="300px" title="로컬 파일 GIF" alt="미니언즈"></GIFr/>
 <br>"저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"<br>
 "新しい挑戦やプロジェクトについて気軽にお話ししたい方は、いつでも気軽にご連絡ください！"
 

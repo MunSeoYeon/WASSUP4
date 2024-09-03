@@ -8,8 +8,6 @@
 
 </div>
 
-# Journey of Ambition: Striving for Excellence
-
 
 ## About Me 
 저는 끝없이 도전의 물결을 타고, 목표라는 수평선을 향해 멈추지 않고 나아가는 항해자입니다.
@@ -44,12 +42,7 @@
 기술과 디자인을 통해 세상에 긍정적인 변화를 일으키고, 
 제 자신의 역량을 한층 더 발전시키기 위해 끊임없이 도전하고 있습니다.
 
----
-## Goals
-1. **나를 알아가는 것** 
 
-2.  **긍정적인 영향력**
-------
 
 <div align="center">
 
@@ -70,7 +63,7 @@
 
 ---
 
-### A Book That Stood Out 
+## A Book That Stood Out 
 - **사람에 대한 예의-권석천** 
 *바라건데, 스스로를 믿지 않기를.*
 

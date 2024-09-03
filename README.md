@@ -1,15 +1,9 @@
 <div align="center">
 
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&fontSize=70" alt="header" style="width: 100%; height: auto;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <p style="margin: 0; font-size: 20px; background-color: rgba(0, 0, 0, 0.5); padding: 10px;">
-      어부들은 바다의 위험과 폭풍우의 괴력을 잘 알지만,<br>
-      그런 위험이 바다로 나서지 말아야 할 이유가 됐던 적은 없다 - 빈센트 반 고흐
-    </p>
-  </div>
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&fontSize=70)
 
+
+##### "어부들은 바다의 위험과 폭풍우의 괴력을 잘 알지만, <br>그런 위험이 바다로 나서지 말아야 할 이유가 됐던 적은 없다"<br><br>-빈센트 반고흐-
 
 ### 안녕하세요! 문서연입니다. :wave:
 
@@ -76,6 +70,7 @@
 
 
 ---
+
 ### Let's Connect 🌐 
 <div align="center">
 <a href='www.linkedin.com/in/seoyeon-moon-33ab97320'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -84,7 +79,7 @@
 
 </div>
 
-### "저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"
-<br>"新しい挑戦やプロジェクトについて気軽にお話ししたい方は、いつでも気軽にご連絡ください！"
 
+#### "저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"
+<br>####"新しい挑戦やプロジェクトについて気軽にお話ししたい方は、いつでも気軽にご連絡ください！"
 

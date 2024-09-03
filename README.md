@@ -13,7 +13,6 @@
 
 
 
-
 ### About Me 🚢
 저는 끝없이 도전의 물결을 타고, 목표라는 수평선을 향해 멈추지 않고 나아가는 항해자입니다.
 인정을 받기 위한 열망은 제 모든 행동의 중심에 있으며, 
@@ -25,7 +24,7 @@
 문제를 해결해 나가는 데 집중합니다. 기술적 지식을 쌓고 활용하는 데 열정을 쏟으며, 
 이를 통해 제 경력과 역량을 지속적으로 발전시키고 있습니다
 
----
+--
 
 ### My Values and Approach 🌟
 
@@ -47,7 +46,7 @@
 기술과 디자인을 통해 세상에 긍정적인 변화를 일으키고, 
 제 자신의 역량을 한층 더 발전시키기 위해 끊임없이 도전하고 있습니다.
 
----
+--
 
 ### Goals 🎯
 
@@ -55,7 +54,7 @@
 
 2. **긍정적인 영향력**
 
----
+--
 
 ### Main Lanauage 🛠️
 <br>
@@ -69,17 +68,16 @@
 </div>
 <br>
 
----
+--
 
 ### A Book That Stood Out 
 - *"바라건데, 스스로를 믿지 않기를."* **사람에 대한 예의-권석천** 
 <br>
 
----
+--
 
 ### Let's Connect 🌐 
 <br>
-<div align="center">
 <a href='www.linkedin.com/in/seoyeon-moon-33ab97320'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href='moonseoyeon@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href='https://github.com/MunSeoYeon'><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /></a>

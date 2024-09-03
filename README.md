@@ -81,9 +81,13 @@
 ##
 
 <div align="center">
-![1_AmI9wRbXrfIWGESx6eEiTw](https://github.com/user-attachments/assets/403b013a-80e5-4765-b0b7-b87f976cf8aa)
-  <br>"저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"
+
+  <br>"저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락주세요!"
   <br>"新しい挑戦やプロジェクトについて気軽にお話ししたい方は、いつでも気軽にご連絡ください！"
+
+  
+![1_AmI9wRbXrfIWGESx6eEiTw](https://github.com/user-attachments/assets/2a0c2742-1ad7-4094-89d0-e3839e3b63a6)
+
 </div>
 <br>
 

@@ -45,17 +45,13 @@
 제 자신의 역량을 한층 더 발전시키기 위해 끊임없이 도전하고 있습니다.
 
 ---
-## Goals 🎯 
+## Goals
 1. **나를 알아가는 것** 
 
 2.  **긍정적인 영향력**
----
-"저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"
-"新しい挑?やプロジェクトについてお話ししたい方は、いつでも??にご連絡ください！"
-
-
 ------
-<div align="cenrter">
+
+<div align="center">
 ### Main Lanauage 
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
@@ -74,3 +70,8 @@
 - **사람에 대한 예의-권석천** 
 *바라건데, 스스로를 믿지 않기를.*
 
+---
+<div align="center">
+"저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"
+<br>"新しい挑戦やプロジェクトについて気軽にお話ししたい方は、いつでも気軽にご連絡ください！"
+</div>

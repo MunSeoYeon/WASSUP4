@@ -58,7 +58,7 @@
 
 ### Main Lanauage 🛠️
 <br>
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
@@ -82,8 +82,12 @@
 <a href='moonseoyeon@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href='https://github.com/MunSeoYeon'><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /></a>
 
+----
+
+<br>
 <div align="center">
 <br>"저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"<br>
 "新しい挑戦やプロジェクトについて気軽にお話ししたい方は、いつでも気軽にご連絡ください！"
 
 </div>
+<br>

@@ -6,7 +6,7 @@
 ### 안녕하세요! 문서연입니다. :wave:
 ##### "어부들은 바다의 위험과 폭풍우의 괴력을 잘 알지만, <br>그런 위험이 바다로 나서지 말아야 할 이유가 됐던 적은 없다"<br><br>-빈센트 반고흐-
 
-
+</div>
 
 # Journey of Ambition: Striving for Excellence
 
@@ -55,6 +55,7 @@
 
 
 ------
+<div align="cenrter">
 ### Main Lanauage 
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
@@ -66,12 +67,10 @@
 ### Let's Connect 
 <a href='www.linkedin.com/in/seoyeon-moon-33ab97320'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href='moonseoyeon@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href='https://github.com/MunSeoYeon'><img src="  
-https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /></a>
-
+<a href='https://github.com/MunSeoYeon'><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /></a>
+</div>
 ---
 ### A Book That Stood Out 
 - **사람에 대한 예의-권석천** 
 *바라건데, 스스로를 믿지 않기를.*
 
-</div>

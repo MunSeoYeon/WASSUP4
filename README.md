@@ -57,8 +57,8 @@
 <div align="center">
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
- <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" /><br>
- <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+ <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+ <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" /><br>
  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=black" />
  <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
@@ -66,18 +66,18 @@
 ---
 
 ## A Book That Stood Out 
-- *바라건데, 스스로를 믿지 않기를.* **사람에 대한 예의-권석천** 
+- *"바라건데, 스스로를 믿지 않기를."* **사람에 대한 예의-권석천** 
 
 
 ---
 
 <div align="center">
-###"저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"
+### "저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"
 <br>"新しい挑戦やプロジェクトについて気軽にお話ししたい方は、いつでも気軽にご連絡ください！"
 </div>
 
-<div align="center">
 ### Let's Connect 🌐 
+<div align="center">
 <a href='www.linkedin.com/in/seoyeon-moon-33ab97320'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href='moonseoyeon@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href='https://github.com/MunSeoYeon'><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /></a>

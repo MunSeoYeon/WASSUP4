@@ -67,7 +67,7 @@
 
 ##
 
-### A Book That Stood Out 
+### A Book That Stood Out 📒 
 - *"바라건데, 스스로를 믿지 않기를."* **사람에 대한 예의-권석천** 
 <br>
 

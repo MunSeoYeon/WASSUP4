@@ -81,7 +81,7 @@
 ##
 
 <div align="center">
-![GIF]("C:\Users\munseoyeon\Desktop\1_AmI9wRbXrfIWGESx6eEiTw.gif".gif)
+![GIF](C:\Users\munseoyeon\Desktop\1_AmI9wRbXrfIWGESx6eEiTw.gif/1_AmI9wRbXrfIWGESx6eEiTw.gif)
 <br>"저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"<br>
 "新しい挑戦やプロジェクトについて気軽にお話ししたい方は、いつでも気軽にご連絡ください！"
 

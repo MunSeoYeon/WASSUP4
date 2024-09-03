@@ -24,7 +24,7 @@
 문제를 해결해 나가는 데 집중합니다. 기술적 지식을 쌓고 활용하는 데 열정을 쏟으며, 
 이를 통해 제 경력과 역량을 지속적으로 발전시키고 있습니다
 
---
+----
 
 ### My Values and Approach 🌟
 
@@ -46,7 +46,7 @@
 기술과 디자인을 통해 세상에 긍정적인 변화를 일으키고, 
 제 자신의 역량을 한층 더 발전시키기 위해 끊임없이 도전하고 있습니다.
 
---
+----
 
 ### Goals 🎯
 
@@ -54,10 +54,11 @@
 
 2. **긍정적인 영향력**
 
---
+----
 
 ### Main Lanauage 🛠️
 <br>
+<div align="center">
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
@@ -65,14 +66,15 @@
  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=black" />
  <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <br>
+</div>
 
---
+----
 
 ### A Book That Stood Out 
 - *"바라건데, 스스로를 믿지 않기를."* **사람에 대한 예의-권석천** 
 <br>
 
---
+----
 
 ### Let's Connect 🌐 
 <br>

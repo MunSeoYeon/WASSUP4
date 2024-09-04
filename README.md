@@ -74,35 +74,21 @@
 
 ### Let's Connect 🌐 
 <br>
-<<<<<<< HEAD
+
 <a href='https://www.linkedin.com/in/seoyeon-moon-33ab97320/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href='moonseoyeon@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href='https://github.com/MunSeoYeon'><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /></a>
 <a href='https://www.instagram.com/munmoon_sy/'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-=======
-<a href='https://www.linkedin.com/in/seoyeon-moon-33ab97320' target='_blank'>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href='mailto:moonseoyeon@gmail.com'>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href='https://github.com/MunSeoYeon'><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /></a>
-<a href='https://www.instagram.com/munmoon_sy/'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
->>>>>>> origin/main
 
 ##
 
 <div align="center">
-<<<<<<< HEAD
+
   <br>"저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락해주세요!"
   <br>"新しい挑戦やプロジェクトについて気軽にお話ししたい方は、いつでも気軽にご連絡ください！"
 
-=======
 
-  <br>"저와 함께 새로운 도전과 프로젝트에 대해 이야기하고 싶으신 분은 언제든지 연락주세요!"
-  <br>"新しい挑戦やプロジェクトについて気軽にお話ししたい方は、いつでも気軽にご連絡ください！"
-
-  
->>>>>>> origin/main
 ![1_AmI9wRbXrfIWGESx6eEiTw](https://github.com/user-attachments/assets/2a0c2742-1ad7-4094-89d0-e3839e3b63a6)
 
 </div>
